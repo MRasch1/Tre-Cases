@@ -1,0 +1,12 @@
+C:\Users\magras\source\repos\Tre Cases\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\magras\source\repos\Tre Cases\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\magras\source\repos\Tre Cases\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\magras\source\repos\Tre Cases\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\magras\source\repos\Tre Cases\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\magras\source\repos\Tre Cases\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+H:\Til drevet\Opgaver\The Three Cases opgave\Tre Cases\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+H:\Til drevet\Opgaver\The Three Cases opgave\Tre Cases\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+H:\Til drevet\Opgaver\The Three Cases opgave\Tre Cases\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+H:\Til drevet\Opgaver\The Three Cases opgave\Tre Cases\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+H:\Til drevet\Opgaver\The Three Cases opgave\Tre Cases\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+H:\Til drevet\Opgaver\The Three Cases opgave\Tre Cases\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
